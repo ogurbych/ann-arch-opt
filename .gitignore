@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Custom
+.DS_Store
+notebooks/affinity/.ipynb_checkpoints
+notebooks/yield/.ipynb_checkpoints
+
 # C extensions
 *.so
 
